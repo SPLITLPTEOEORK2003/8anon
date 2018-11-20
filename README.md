@@ -1,1 +1,1 @@
-# 8anon
+worker: node bot.js
